@@ -1,0 +1,3 @@
+# ccxt
+# pip install git+https://github.com/twopirllc/pandas-ta.git@development
+pip install delta-rest-client ccxt pandas
